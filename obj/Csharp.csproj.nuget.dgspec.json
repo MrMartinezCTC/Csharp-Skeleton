@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/CSharp-Playground/Csharp.csproj": {}
+    "/workspaces/Csharp-Skeleton/Csharp.csproj": {}
   },
   "projects": {
-    "/workspaces/CSharp-Playground/Csharp.csproj": {
+    "/workspaces/Csharp-Skeleton/Csharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/CSharp-Playground/Csharp.csproj",
+        "projectUniqueName": "/workspaces/Csharp-Skeleton/Csharp.csproj",
         "projectName": "Csharp",
-        "projectPath": "/workspaces/CSharp-Playground/Csharp.csproj",
+        "projectPath": "/workspaces/Csharp-Skeleton/Csharp.csproj",
         "packagesPath": "/home/vscode/.nuget/packages/",
-        "outputPath": "/workspaces/CSharp-Playground/obj/",
+        "outputPath": "/workspaces/Csharp-Skeleton/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/vscode/.nuget/NuGet/NuGet.Config"
